@@ -1,0 +1,25 @@
+{
+  "name": "react-mass-certificate-demo",
+  "version": "1.0.0",
+  "description": "Mass Certificate Generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumedhBengale/react-mass-certificate-demo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "SumedhBengale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SumedhBengale/react-mass-certificate-demo/issues"
+  },
+  "homepage": "https://github.com/SumedhBengale/react-mass-certificate-demo#readme",
+  "dependencies": {
+    "mass_cert": "^1.0.1"
+  }
+}
